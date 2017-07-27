@@ -5,4 +5,4 @@ Jinja2==2.8
 packaging==16.8
 colorama==0.3.7
 awscli
-troposphere
+troposphere==1.9.5
